@@ -1,0 +1,17 @@
+class A{
+publis static void main(String[] args){
+	System.out.println("A class main method");
+}
+}
+class B{
+publis static void main(String[] args){
+	System.out.println("B class main method");
+}
+}
+class C{
+publis static void main(String[] args){
+	System.out.println("C class main method");
+}
+}
+class D{
+}
